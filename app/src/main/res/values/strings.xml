@@ -1,0 +1,5 @@
+<resources>
+    <string name="name">AppDisplayRoadWork</string>
+    <string name="tv_detail_road_work">Detail Road Work</string>
+    <string name="tv_default_marker">Default marker location</string>
+</resources>
